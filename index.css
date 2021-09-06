@@ -1,0 +1,27 @@
+.seleccion{
+    display: grid;
+    width: 270px;
+    height: 40px;
+    border: 2px solid rgb(100, 99, 99);
+    margin-left: auto;
+    margin-right: auto;
+}
+.titulo{
+    margin-left: 765px;
+
+}
+
+.titulo2
+{
+    color: rgba(90, 92, 87, 0.473);
+    margin-left: 880px;
+
+}
+.botones{
+    margin-left: 920px;
+    background-color: rgb(73, 102, 45);
+    width: 2cm;
+    height: 1cm;
+
+
+}
